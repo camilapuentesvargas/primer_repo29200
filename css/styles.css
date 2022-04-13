@@ -477,10 +477,10 @@ h2{
 
 img.carrocerias:hover,
 img.ksc:hover,
-img.logistica,
-img.tdp,
-img.sunnyapp{
-    transform: scale(1.5);
+img.logistica:hover,
+img.tdp:hover,
+img.sunnyapp:hover{
+    transform: scale(1.3);
 }
 
 
