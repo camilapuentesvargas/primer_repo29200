@@ -475,6 +475,18 @@ h2{
     }
 }
 
+img.carrocerias:hover,
+img.ksc:hover,
+img.logistica,
+img.tdp,
+img.sunnyapp{
+    transform: scale(1.5);
+}
+
+
+
+
+
 
 
 
